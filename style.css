@@ -1,0 +1,169 @@
+.navbar{
+    background-color:#172a3a
+}
+
+a{ 
+    color:#09bc8a;
+    font-size: 2rem;
+    font-family:'open sans', sans-serif;
+
+}
+span{
+    color: white;
+    background-color:white;
+    text-align: left;
+}
+#myName{
+    Color: #09bc8a;
+    font-size: 9rem;
+    font-family:'open sans', sans-serif;
+    text-align: center;
+    padding-top: 21rem;  
+}
+#whatIAm{
+    color:#172a3a;
+    font-size:3rem;
+    font-family:'open sans', sans-serif;
+    text-align: center;
+    padding-bottom: 50rem;
+}
+#AboutMe{
+    text-align:center;
+    font-family: 'open sans', sans-serif;
+    color:#e47826;
+    font-size: 7rem;
+}
+.AboutWrapper{
+    padding-bottom: 11rem;
+}
+
+
+#myHeadshot{
+    max-width: 56%; 
+    max-height: 565px;
+}
+
+.aboutText{
+    text-align: center;
+    color: #09bc8a;
+    font-family: 'open sans',sans-serif;
+    font-size: 2.0rem;
+    margin: 1rem 6rem;
+}
+#downloadBtn{
+    background-color:#172a3a;
+    color: #09bc8a;
+    min-width: 31%;
+}
+#downloadIcon{
+    background-color:#172a3a;
+    color: #09bc8a;
+    font-size: 2rem;
+}
+
+.container{
+    text-align: center;
+    padding-bottom: 15rem;
+
+}
+#skillsHeader{
+    font-family: 'open sans', sans-serif;
+    font-size: 7rem;
+    color: #172a3a;
+    text-align: center;
+}
+
+.fab{
+    font-size: 4rem;
+    color:#e47826;   
+}
+.fas{
+    font-size: 4rem;
+    color: #e47826;     
+}
+.SkillsDesc{
+    color:#172a3a;
+   text-align:center;
+    font-family: 'open sans', sans-serif;
+    font-size: 1.3rem;
+    padding-top:4rem;
+}
+.row{
+    padding-top: 20rem;
+}
+
+#PortfolioHeader{
+    text-align: Center;
+    font-size: 7rem;
+    font-family: 'Open Sans', sans-serif;
+    color: #172a3a;
+}
+
+
+#myCarousel{
+    text-align:center;
+    
+}
+
+
+.carousel-inner .item img{
+
+    width: 300px;
+    height: 450px;
+}
+
+.PortfolioWrapper{
+    text-align:center;
+}
+
+#Contact{
+    font-size:7rem;
+    font-family: 'open sans', sans-serif;
+    color:#09bc8a;
+}
+#commentText{
+    font-family: 'open sans', sans-serif;
+    font-size: 3rem;
+    color: #172a3a;
+    margin: 1rem 6rem;
+}
+label{
+    font-family: 'open sans', sans-serif;
+    font-size:2rem;
+    /* margin: 1rem 6rem; */
+    color:#172a3a;
+
+}
+.ContactWrapper{
+    text-align:center;
+}
+.formCenter{
+    padding-top: 20rem;
+    
+}
+.form-group{
+    display:block;
+    width:100%;
+    text-align: left;
+}
+#emailInput #textInput{
+    width: 100%;
+}
+#contactBtn{
+    background-color:#172a3a;
+    color: #09bc8a;
+    min-width: 31%;
+    font-family: 'open sans', sans-serif;
+    font-size: 2rem;
+}
+footer{
+    display:block;
+    font-family:'open sans', sans-serif;
+    font-size: 1.5rem;
+    background: #172a3a;
+    color: #09bc8a;
+}
+#BtmIcon{
+    color: #09bc8a;
+    padding:1rem 1rem;
+}
