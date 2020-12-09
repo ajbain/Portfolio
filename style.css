@@ -70,6 +70,9 @@ span{
     padding-bottom: 15rem;
 
 }
+
+    
+
 #skillsHeader{
     font-family: 'open sans', sans-serif;
     font-size: 7rem;
@@ -108,8 +111,32 @@ span{
     color: #172a3a;
 }
 
+h5{
+    font-size: 3rem;
+    padding: 10rem 0rem;
+}
+#spacerDiv{
+    padding:10rem;
+}
+.explainers{
+    font-family:'Open Sans', sans-serif;
+    font-size: 2.3rem;
+    color: #172a3a;
+}
+.card-body{
+   padding: 0rem 10rem;
+   text-align:center;
+}
+.card{
+    text-align: center;
+}
+#skillsLogo{
+    font-size:8rem;
+}
 
-#myCarousel{
+
+
+/* #myCarousel{
     text-align:center;
     
 }
@@ -119,7 +146,7 @@ span{
 
     width: 300px;
     height: 450px;
-}
+} */
 
 .PortfolioWrapper{
     text-align:center;
